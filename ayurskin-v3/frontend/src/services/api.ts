@@ -207,4 +207,20 @@ export function getImageUrl(url: string): string {
   if (url.startsWith('http')) return url;
   const base = import.meta.env.VITE_API_URL?.replace('/api', '') || 'http://localhost:3001';
   return base + url;
+};
+
+export interface HabitLog {
+  _id: string;
+  date: string;
+  waterIntakeLitres: number;
+  sleepHours: number;
+  stressLevel: number;
+  dietType: 'clean' | 'moderate' | 'junk';
+  sugarConsumed: boolean;
+  dairyConsumed: boolean;
+  exerciseDone: boolean;
+  sunExposureMinutes: number;
+  notes?: string;
+  createdAt: string;
+  updatedAt: string;
 }
