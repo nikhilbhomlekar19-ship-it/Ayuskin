@@ -74,7 +74,7 @@ const REMEDIES_DB: Record<SkinCondition, Remedy[]> = {
       ]
     },
     {
-      name: 'Multani Mitti (Fuller\'s Earth) & Aloe Pack',
+      name: 'Multani Mitti (Fullers Earth) & Aloe Pack',
       ingredients: ['2 tbsp multani mitti', '2 tbsp fresh aloe vera gel', '1 tsp lemon juice (optional for oily skin)'],
       preparation: 'Mix all ingredients until no lumps remain. Adjust consistency with rose water.',
       application: 'Apply evenly on face. Let dry completely (15-20 min).',
@@ -146,7 +146,7 @@ const REMEDIES_DB: Record<SkinCondition, Remedy[]> = {
       application: 'Apply generously on tanned areas (face, neck, arms). Leave for 25-30 min.',
       frequency: 'Every 2 days for first 2 weeks, then weekly for maintenance.',
       benefits: [
-        'Sandalwood's alpha-santalol lightens melanin buildup from sun exposure',
+        'Sandalwoods alpha-santalol lightens melanin buildup from sun exposure',
         'Rose water has anti-inflammatory properties, soothes sun-stressed skin',
         'Milk (lactic acid) dissolves keratin plugs that hold discoloration'
       ]
