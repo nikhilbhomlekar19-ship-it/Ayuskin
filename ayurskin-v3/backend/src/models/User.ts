@@ -41,7 +41,7 @@ UserSchema.methods.comparePassword = async function (candidatePassword: string):
 };
 
 UserSchema.set('toJSON', {
-  transform: (_doc, ret) => { delete ret.password; return ret; }
+  transform: (_doc, ret) => { delete (ret as any).password; return ret; }
 });
 
 export const User = mongoose.model<IUser>('User', UserSchema);
