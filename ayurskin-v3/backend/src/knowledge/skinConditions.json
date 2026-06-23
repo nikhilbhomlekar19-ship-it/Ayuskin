@@ -1,0 +1,107 @@
+[
+  {
+    "id": "acne-causes-001",
+    "topic": "acne",
+    "subtopic": "causes",
+    "text": "Acne vulgaris results from four primary factors: follicular hyperkeratinization (dead skin cells clogging pores), excess sebum production from sebaceous glands, colonization by Cutibacterium acnes bacteria, and an inflammatory immune response. Hormonal androgens like testosterone and DHT upregulate sebaceous gland activity — which is why acne spikes during puberty, menstrual cycles, and periods of chronic stress (cortisol elevates androgens).",
+    "keywords": ["acne","cause","why","bacteria","sebum","hormones","pores","clog","stress","cortisol"]
+  },
+  {
+    "id": "acne-diet-001",
+    "topic": "acne",
+    "subtopic": "diet",
+    "text": "High-glycaemic foods (white bread, refined sugar, chips) spike insulin and IGF-1, amplifying androgen signalling and sebum production. Clinical studies show low-GI diets reduce comedone count by 22% over 12 weeks. Dairy — especially whey protein — increases IGF-1 levels; eliminating dairy improves acne in roughly 40% of cases. Zinc (pumpkin seeds, chickpeas) is proven to reduce P. acnes colonization. Omega-3 fatty acids (flaxseeds, walnuts) reduce systemic inflammation that drives acne severity.",
+    "keywords": ["diet","food","sugar","dairy","glycaemic","insulin","zinc","omega","acne","breakout","eat"]
+  },
+  {
+    "id": "acne-remedy-001",
+    "topic": "acne",
+    "subtopic": "remedy",
+    "text": "Neem (Azadirachta indica) contains nimbidin and nimbin compounds with proven antibacterial activity against P. acnes bacteria. Turmeric's curcumin is a COX-2 inhibitor — it directly blocks the inflammatory pathway responsible for pimple redness and swelling. Tea tree oil (terpinen-4-ol) at 5% concentration shows equivalent efficacy to benzoyl peroxide 5% in clinical trials, with fewer side effects like dryness. Multani mitti (fuller's earth) absorbs excess sebum without stripping the skin barrier.",
+    "keywords": ["neem","turmeric","tea tree","remedy","treatment","natural","paste","pack","ayurvedic","antibacterial"]
+  },
+  {
+    "id": "acne-lifestyle-001",
+    "topic": "acne",
+    "subtopic": "lifestyle",
+    "text": "Pillowcases harbor acne-causing bacteria and sebum — changing them every 2-3 days significantly reduces reinfection. Stress is the most underrated acne trigger: cortisol directly stimulates sebaceous glands via corticotropin-releasing hormone receptors in skin. 10 minutes of Anulom Vilom (alternate nostril breathing) daily reduces cortisol measurably within 4 weeks. Poor sleep (under 6 hours) elevates inflammatory cytokines IL-1β and TNF-α that worsen acne severity.",
+    "keywords": ["lifestyle","pillow","stress","sleep","cortisol","meditation","yoga","pranayama","acne","daily","routine"]
+  },
+  {
+    "id": "pigmentation-causes-001",
+    "topic": "pigmentation",
+    "subtopic": "causes",
+    "text": "Hyperpigmentation occurs when melanocytes produce excess melanin, triggered by UV radiation (activating tyrosinase enzyme), hormonal fluctuations (melasma during pregnancy or OCP use), post-inflammatory response (dark marks after acne or injury), and oxidative stress from pollution. Melanin synthesis pathway: UV → tyrosinase activation → L-DOPA → melanin. Blocking tyrosinase at any step reduces pigmentation formation.",
+    "keywords": ["pigmentation","dark spots","melanin","tyrosinase","cause","UV","hormones","melasma","why","spots"]
+  },
+  {
+    "id": "pigmentation-diet-001",
+    "topic": "pigmentation",
+    "subtopic": "diet",
+    "text": "Vitamin C (ascorbic acid) is a potent tyrosinase inhibitor — it directly blocks melanin synthesis. Amla has the highest natural Vitamin C concentration at 600-700mg per 100g, far exceeding oranges (53mg). Lycopene in tomatoes provides photoprotection by neutralizing UV-induced free radicals. Vitamin E (almonds, sunflower seeds) works synergistically with Vitamin C to reduce oxidative pigmentation. Beta-carotene (carrots, sweet potato) converts to Vitamin A and promotes even cell turnover.",
+    "keywords": ["pigmentation","diet","vitamin C","amla","lycopene","antioxidant","eat","food","brightening","dark spots"]
+  },
+  {
+    "id": "pigmentation-remedy-001",
+    "topic": "pigmentation",
+    "subtopic": "remedy",
+    "text": "Saffron's crocin compound inhibits melanin synthesis by reducing tyrosinase activity — traditional Kumkumadi formulation. Kojic acid (from fungi) and Alpha Arbutin block tyrosinase competitively. Papain enzyme in papaya acts as a keratolytic — it dissolves the protein bonds holding pigmented dead skin cells, accelerating their removal. Lactic acid (in yogurt, curd) provides gentle AHA exfoliation, bringing fresher, less pigmented skin to the surface.",
+    "keywords": ["pigmentation","remedy","saffron","kojic","papaya","papain","lactic acid","brightening","treatment","natural"]
+  },
+  {
+    "id": "tanning-causes-001",
+    "topic": "tanning",
+    "subtopic": "causes",
+    "text": "Tanning is the skin's defense mechanism: UV-B radiation damages DNA, triggering melanocytes to produce melanin as a shield. This melanin darkens the skin (tan). UV-A radiation causes immediate darkening by oxidizing existing melanin. In Ayurveda, excess sun exposure aggravates Pitta dosha — the fire principle — leading to heat accumulation in the skin that worsens tanning and inflammation. Indian skin tones (Fitzpatrick IV-VI) are prone to both tanning and hyperpigmentation post-tan.",
+    "keywords": ["tanning","cause","sun","UV","melanin","pitta","heat","why","dark","skin"]
+  },
+  {
+    "id": "tanning-diet-001",
+    "topic": "tanning",
+    "subtopic": "diet",
+    "text": "Cooling (Pitta-pacifying) foods accelerate tan reversal by reducing the internal heat that worsens melanin production: cucumber, watermelon, coconut water, mint, coriander. Lycopene in watermelon and tomatoes provides internal photoprotection — studies show 16mg daily lycopene reduces sunburn response by 40%. Silica-rich foods (cucumber, oats) support collagen synthesis for even skin texture. Avoiding hot, spicy food and excess red meat during tanning reversal is recommended in Ayurvedic protocols.",
+    "keywords": ["tanning","diet","cooling","pitta","watermelon","cucumber","coconut water","lycopene","food","eat"]
+  },
+  {
+    "id": "tanning-remedy-001",
+    "topic": "tanning",
+    "subtopic": "remedy",
+    "text": "Sandalwood's alpha-santalol inhibits melanin synthesis in melanocytes. Potato contains catecholase — an enzyme with natural depigmenting action — and azelaic acid which inhibits abnormal melanocyte activity. Lactic acid in yogurt/curd exfoliates tan-holding dead skin cells via keratolytic action. These remedies work synergistically: exfoliation (lactic acid) + melanin inhibition (sandalwood, potato) + anti-inflammatory (rose water) = complete tan reversal protocol.",
+    "keywords": ["tanning","remedy","sandalwood","potato","yogurt","lactic acid","de-tan","treatment","natural","pack"]
+  },
+  {
+    "id": "general-sunscreen-001",
+    "topic": "general",
+    "subtopic": "sun_protection",
+    "text": "SPF 30 blocks 97% of UV-B; SPF 50 blocks 98%. The difference is small but significant for daily use. Sunscreen must be applied 20-30 minutes before sun exposure to allow film-forming. For indoor settings, UV-A (causing pigmentation) penetrates glass — apply SPF even indoors near windows. Reapplication every 2 hours is essential outdoors. Mineral sunscreens (zinc oxide, titanium dioxide) are better for acne-prone skin as they sit on top of skin rather than penetrating pores.",
+    "keywords": ["sunscreen","SPF","UV","protection","apply","sun","pigmentation","tanning","skin","daily"]
+  },
+  {
+    "id": "general-skintype-001",
+    "topic": "general",
+    "subtopic": "skin_type",
+    "text": "Oily skin: overactive sebaceous glands, shiny T-zone, enlarged pores, prone to acne. Dry skin: under-functioning sebaceous glands, tight feeling after washing, flaking, fine lines visible. Combination: oily T-zone (forehead, nose, chin) with dry or normal cheeks — most common Indian skin type. Normal: balanced sebum, no major sensitivity, small pores. Skin type is largely genetic but influenced by climate, diet, and age. Hormones shift skin type (teenagers tend oiler, post-menopause tends drier).",
+    "keywords": ["skin type","oily","dry","combination","normal","T-zone","sebum","classify","identify"]
+  },
+  {
+    "id": "acne-region-cheek",
+    "topic": "acne",
+    "subtopic": "region_specific",
+    "text": "Cheek acne is most commonly linked to: phone bacteria (phones have 10x more bacteria than a toilet seat — clean phone screen daily), pillowcase contamination, dairy consumption (dairy breakouts classically appear on cheeks and jawline), and respiratory health in Chinese face-mapping traditions. In Ayurveda, cheek breakouts indicate Pitta imbalance — excess heat and digestive inflammation. Dietary triggers most relevant to cheek acne: dairy, processed foods, high-glycaemic snacks.",
+    "keywords": ["cheek acne","cheek","face mapping","dairy","phone","pitta","cause","breakout","why cheeks"]
+  },
+  {
+    "id": "acne-region-forehead",
+    "topic": "acne",
+    "subtopic": "region_specific",
+    "text": "Forehead acne is most commonly caused by: hair products (pomades, dry shampoo, conditioner) dripping onto forehead skin and clogging pores — called pomade acne; bangs or hair constantly touching forehead; high sugar diet (digestive system connection in face-mapping); stress (cortisol highest impact on forehead); caps or helmets causing friction (acne mechanica). Ayurvedic face-mapping links forehead to digestive imbalances — Vata-Pitta region.",
+    "keywords": ["forehead acne","forehead","hair products","bangs","stress","diet","digestion","cause","why forehead"]
+  },
+  {
+    "id": "general-water-skin",
+    "topic": "general",
+    "subtopic": "hydration",
+    "text": "Drinking adequate water (2.5-3L daily) directly supports skin health by maintaining turgor pressure, facilitating toxin removal through kidneys (reducing burden on skin), and supporting lymphatic drainage. Dehydration causes skin to produce more sebum as a compensatory mechanism — worsening oily skin and acne. Herbal infused waters (neem, tulsi, cucumber) add antibacterial and anti-inflammatory benefits beyond plain water. Coconut water provides electrolytes that plain water lacks, improving cellular hydration.",
+    "keywords": ["water","hydration","drink","skin","dehydration","flush","toxins","daily"]
+  }
+]

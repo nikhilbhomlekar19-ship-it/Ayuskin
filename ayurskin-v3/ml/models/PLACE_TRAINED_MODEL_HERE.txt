@@ -1,0 +1,14 @@
+Place your trained model files here:
+
+  skin_classifier.h5      — Keras model (from train_pipeline.py)
+  skin_classifier.tflite  — TFLite quantized model (auto-exported by train_pipeline.py)
+  class_index.json        — {"0":"acne","1":"normal","2":"pigmentation","3":"tanning"}
+  model_config.json       — {"temperature":1.0,"classes":[...],"img_size":[224,224]}
+
+HOW TO TRAIN:
+  1. Place images in ml/data/raw/{acne,normal,pigmentation,tanning}/
+  2. Run: python ml/train_pipeline.py
+  3. Models are saved here automatically.
+
+If no model is present, the services use a heuristic colour-science fallback
+(not accurate — always train before demo).

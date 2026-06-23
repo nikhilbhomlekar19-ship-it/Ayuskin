@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+build/
+
+# Environment files — NEVER commit these
+.env
+backend/.env
+frontend/.env
+
+# Python virtual environment and cache
+ml/venv/
+ml/__pycache__/
+ml/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Trained ML model files (large binaries — upload separately)
+ml/models/*.h5
+ml/models/*.keras
+ml/models/*.tflite
+ml/models/skin_classifier_saved/
+ml/models/best_phase*.weights.h5
+
+# Uploaded user files
+backend/uploads/analyses/*
+backend/uploads/captures/*
+backend/uploads/progress/*
+backend/uploads/reports/*
+!backend/uploads/**/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/settings.json
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
