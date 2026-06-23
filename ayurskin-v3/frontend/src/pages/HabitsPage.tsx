@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { habitsApi, HabitLog } from '../services/api';
+import { habitsApi } from '../services/api';
 
 const DIET_OPTIONS = [
   { value: 'clean', label: '🥗 Clean', desc: 'Mostly home-cooked, vegetables, dal' },
