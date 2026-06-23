@@ -36,7 +36,7 @@ export async function getEnvironmentData(city: string): Promise<EnvironmentData>
 
     if (!weatherRes.ok) return getFallbackEnvironmentData(city);
 
-    const weatherData = await weatherRes.json();
+    const weatherData: any = await weatherRes.json();
     const humidity = weatherData.main.humidity as number;
     const temperature = Math.round(weatherData.main.temp as number);
     const lat = weatherData.coord.lat as number;
@@ -48,7 +48,7 @@ export async function getEnvironmentData(city: string): Promise<EnvironmentData>
         `https://api.openweathermap.org/data/2.5/uvi?lat=${lat}&lon=${lon}&appid=${apiKey}`,
         { signal: AbortSignal.timeout(5000) }
       );
-      if (uvRes.ok) { const uvData = await uvRes.json(); uvIndex = Math.round(uvData.value); }
+      if (uvRes.ok) { const uvData: any = await uvRes.json(); uvIndex = Math.round(uvData.value); }
     } catch {}
 
     let aqi = 75;
@@ -58,7 +58,7 @@ export async function getEnvironmentData(city: string): Promise<EnvironmentData>
         { signal: AbortSignal.timeout(5000) }
       );
       if (aqiRes.ok) {
-        const aqiData = await aqiRes.json();
+        const aqiData: any = await aqiRes.json();
         const pm25 = aqiData.list?.[0]?.components?.pm2_5 || 0;
         aqi = pm25ToAqi(pm25);
       }
